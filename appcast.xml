@@ -3,6 +3,14 @@
     <channel>
         <title>Alpage</title>
         <item>
+            <title>1.3.0</title>
+            <pubDate>Sun, 26 Jul 2026 18:02:44 +0000</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bee-interactive/alpage-releases/releases/download/v1.3.0/Alpage-1.3.0.zip" length="3651644" type="application/octet-stream" sparkle:edSignature="OxFeWPswFFmyzW8JpAO0fRbztxp7hUgrE1BCRQkkRnektiyEaASI1Xb3gfz6kx+BP92G3pVXeCXl4PW2qiH7BQ=="/>
+        </item>
+        <item>
             <title>1.2.0</title>
             <pubDate>Mon, 20 Jul 2026 07:00:31 +0000</pubDate>
             <sparkle:version>103</sparkle:version>
