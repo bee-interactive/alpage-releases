@@ -3,6 +3,14 @@
     <channel>
         <title>Alpage</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Mon, 28 Sep 2026 13:40:39 +0000</pubDate>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/bee-interactive/alpage-releases/releases/download/v1.6.0/Alpage-1.6.0.zip" length="4011966" type="application/octet-stream" sparkle:edSignature="7ushhF9yIfqmA88PcaiZdkTTwQatTYpr9I81+iWl6W10xx0BL0VslReWHJFay9Jr1P+OLTye8V9hjdhXL1d0AA=="/>
+        </item>
+        <item>
             <title>1.5.1</title>
             <pubDate>Mon, 21 Sep 2026 15:46:54 +0000</pubDate>
             <sparkle:version>111</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/bee-interactive/alpage-releases/releases/download/v1.5.0/Alpage-1.5.0.zip" length="3995866" type="application/octet-stream" sparkle:edSignature="GYxFfyN0eM2IAT5z+emvEz45MFptF2bSsX0RCGqjgIC5ImVHzA5MFRZMr5772mlHgcCnNq/moOnEVw/30FJBCA=="/>
-        </item>
-        <item>
-            <title>1.4.2</title>
-            <pubDate>Mon, 31 Aug 2026 11:23:58 +0000</pubDate>
-            <sparkle:version>109</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/bee-interactive/alpage-releases/releases/download/v1.4.2/Alpage-1.4.2.zip" length="3991265" type="application/octet-stream" sparkle:edSignature="835xbIQB/gk9Lkf3l/L/Y9UK3v/eHetcvfIInVqi3WAS6ytBUr2zNXifCGxv7QffzthAppAPG7S5VENg9KhhBQ=="/>
         </item>
     </channel>
 </rss>
